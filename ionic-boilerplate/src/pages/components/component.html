@@ -1,0 +1,10 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Components</ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+  <ion-list>
+    <button ion-item *ngFor="let component of listComponents" (click)="selectComponent(component)">{{component.name}}</button>
+  </ion-list>
+</ion-content>
