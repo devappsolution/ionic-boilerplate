@@ -1,6 +1,6 @@
 # Ionic-Boilerplate
 
-##Clone the repo
+## Clone the repo
 
 <pre>
   git clone git://github.com/devappsolution/ionic-boilerplate.git
