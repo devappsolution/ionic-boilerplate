@@ -1,20 +1,20 @@
 # Ionic-Boilerplate
 
-<h2>Clone the repo:</h2>
+##Clone the repo
 
 <pre>
   git clone git://github.com/devappsolution/ionic-boilerplate.git
   cd ionic-boilerplate
 </pre>
-<h2>Install dependencies:</h2>
+## Install dependencies
 <pre>
   npm install
 </pre>
-<h2>Run in your browser</h2>
+## Run in your browser
 <pre>
   ionic serve --lab
 </pre>
-<h2>Note</h2>
+## Note
 <pre>
   Components natives will not working in a browser.
 </pre>
